@@ -1,2 +1,6 @@
 test status diff add commit;
+<<<<<<< HEAD
 test branch add one word
+=======
+test branch one word two word
+>>>>>>> dev

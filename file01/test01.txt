@@ -1,2 +1,2 @@
 test status diff add commit;
-test branch add one word
+test branch add one word update first time
